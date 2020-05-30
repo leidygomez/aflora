@@ -1120,6 +1120,18 @@ section.lazy-placeholder:after {
 .cid-rZSTeb6mm1 .card {
   padding-bottom: 1.5rem;
 }
+.cid-s0uh3u1HEb {
+  background: #ffffff;
+}
+.cid-s0uh3u1HEb .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s0uh3u1HEb .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rZSTfdwj43 {
   background-image: url("../../../assets/images/mesa-de-trabajo-1-1530x1080.jpg");
 }
@@ -1223,4 +1235,16 @@ section.lazy-placeholder:after {
 }
 .cid-qTkAaeaxX5 P {
   text-align: right;
+}
+.cid-s0uh2s38ow {
+  background: #ffffff;
+}
+.cid-s0uh2s38ow .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-s0uh2s38ow .video-block {
+    width: 100% !important;
+  }
 }
