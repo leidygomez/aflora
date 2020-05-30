@@ -1236,15 +1236,3 @@ section.lazy-placeholder:after {
 .cid-qTkAaeaxX5 P {
   text-align: right;
 }
-.cid-s0uh2s38ow {
-  background: #ffffff;
-}
-.cid-s0uh2s38ow .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-s0uh2s38ow .video-block {
-    width: 100% !important;
-  }
-}
